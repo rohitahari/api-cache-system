@@ -121,39 +121,5 @@ source: cache
 
 ---
 
-Push to GitHub
-
-Run inside the project folder:
-
-git init
-git add .
-git commit -m "API Cache System with Redis and PostgreSQL"
-git branch -M main
-git remote add origin https://github.com/rohitahari/api-cache-system.git
-git push -u origin main
 
 
----
-
-Your Backend Portfolio Now
-
-You now have 5 serious backend systems:
-
-URL Shortener
-Job Queue System
-API Rate Limiter
-Auth Service
-API Cache System
-
-These represent the core backend infrastructure patterns.
-
-That means:
-
-project-building phase → complete
-
-
----
-
-If you want, the next thing I can show you is extremely important for the next stage:
-
-the exact roadmap from these 5 projects → first $1000 online as a backend developer.
